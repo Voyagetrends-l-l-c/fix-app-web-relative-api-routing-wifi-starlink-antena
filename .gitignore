@@ -9,6 +9,6 @@
 *.log
 *.log.*
 *.sig
-
+*.footer
 pkg/
 src/
